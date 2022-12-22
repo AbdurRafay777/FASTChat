@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.fastchat.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_chat"
+        android:name="com.example.fastchat.ui.chat.chat"
+        android:label="@string/chat"
+        tools:layout="@layout/fragment_chat" />
+
+    <fragment
+        android:id="@+id/nav_notif"
+        android:name="com.example.fastchat.ui.notif.notiff"
+        android:label="@string/notif"
+        tools:layout="@layout/fragment_notiff" />
+    <fragment
+        android:id="@+id/nav_past"
+        android:name="com.example.fastchat.ui.past.PastFragment"
+        android:label="@string/past"
+        tools:layout="@layout/fragment_past" />
+    <fragment
+        android:id="@+id/nav_courses"
+        android:name="com.example.fastchat.ui.courses.courses"
+        android:label="@string/courses"
+        tools:layout="@layout/fragment_courses" />
+    <fragment
+        android:id="@+id/nav_semester"
+        android:name="com.example.fastchat.ui.semester.semester"
+        android:label="@string/semester"
+        tools:layout="@layout/fragment_semester" />
+</navigation>

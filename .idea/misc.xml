@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_forget_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_login.xml" value="0.14512471655328799" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_main.xml" value="0.21262458471760798" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/activity_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/courses_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_notiff.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_past.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/fragment_semester.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/item_receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/item_sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/register.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/row_conversation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/row_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/layout/user_list_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Abdur Rafay/Documents/FAST/SMD/FASTChat/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
